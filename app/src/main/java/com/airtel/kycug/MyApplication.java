@@ -1,6 +1,5 @@
-package com.example.test;
+package com.airtel.kycug;
 
-import android.app.Application;
 import android.content.Context;
 import android.util.Log;
 
