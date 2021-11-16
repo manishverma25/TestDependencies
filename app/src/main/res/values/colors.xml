@@ -7,4 +7,28 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#E9202F</color>
+    <color name="colorAccent">#EE1C25</color>
+    <color name="colorCell">#015093</color>
+    <color name="spinnerItemColor">#3F51B5</color>
+    <color name="textColor">#e4e4e4</color>
+    <color name="textColornew">#0277bd</color>
+    <color name="layoutBackgroundColor">#e4e4e4</color>
+    <!--<color name="layoutBackgroundColor">#FAFAFA</color>-->
+    <color name="dialogbackgroundcolor">#DCDCDC</color>
+    <color name="statusbarColor">#7c0e16</color>
+    <color name="btn_backgroundcolor">#E9202F</color>
+    <color name="btn_pressed_backgroundcolor">#FF8888</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="backgroud_white">#FFFFFF</color>
+    <color name="textcolor2">#7e7e7e</color>
+    <color name="disable_color">#FFA07A</color>
+    <color name="airtel_color">#EE1C25</color>
+    <color name="progress_center_color">#F36369</color>
+    <color name="progress_end_color">#EE1C25</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="btn_backgroundcolor_disabled">#CBF17881</color>
 </resources>
