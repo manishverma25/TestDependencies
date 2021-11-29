@@ -14,26 +14,6 @@ buildscript {
 }
 
 
-//allprojects {
-//    repositories {
-//        google()
-//        jcenter()
-//        mavenCentral()
-//        maven { url "https://jitpack.io" }
-////        maven { url "https://dl.bintray.com/ajaykumar8/com.airtel.kyc" }
-//        maven { url "https://maven.google.com" }
-//        flatDir { dirs 'src/main/libs' }
-//
-//        maven {
-//            url "https://identy.jfrog.io/identy/identy-finger-release"
-//            credentials {
-//                username = "airtelafrica"
-//                password = "Q6e66mPCgFly9WYhM8khO"
-//            }
-//        }
-//    }
-//}
-
 task clean(type: Delete) {
     delete rootProject.buildDir
 }

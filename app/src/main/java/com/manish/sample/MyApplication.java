@@ -1,4 +1,4 @@
-package com.airtel.kycug;
+package com.manish.sample;
 
 import android.content.Context;
 import android.util.Log;

@@ -4,12 +4,54 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    >
+    android:orientation="vertical">
 
-    <TextView
+
+
+
+    <EditText
+        android:hint="edit1"
+        android:id="@+id/editTxt1"
+        android:padding="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/editTxt2"
+        android:hint="edit2"
+        android:padding="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </EditText>
+    <EditText
+        android:id="@+id/editTxt3"
+        android:hint="edit2"
+        android:padding="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </EditText>
+
+
+    <Button
+        android:id="@+id/bttn1"
+        android:padding="20dp"
+        android:clickable="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World 444aa  ..."
-          />
+        android:text="Button 1 " />
+
+    <Button
+        android:id="@+id/btn2"
+        android:padding="20dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:onClick="handleBtn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button 2" />
 
 </LinearLayout>
